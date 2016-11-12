@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["will pearson <wil.pearson@gmail.com>"]
 
 [dependencies]
-openssl-sys-extras="*"
+openssl="0.7"
